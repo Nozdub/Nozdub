@@ -5,7 +5,7 @@
 📙I'm currently learning about linear regression and decision trees for our bachelor project. <br>
 💬Ask me about Python, Kotlin and C# (can't promise a direct answer, but I'm up for discussing).<br>
 🤣Fun fact: "Do you know what they call a group of Lemurs? A conspiracy"<br>
-- **CONTACT**: *chriaas@hiof.no or chriaasen@gmail.com*
+**CONTACT**: *chriaas@hiof.no or chriaasen@gmail.com*
 
 
 ## 🌐 Socials:
