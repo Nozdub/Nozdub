@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Christian Aasen**<br>
-💻I'm currently working on my bachelor thesis that entails machine learning, jetpack compose and noSQL database.<br>
+💻I'm currently working on my bachelor thesis that entails machine learning, Kotlin and noSQL database.<br>
 🔎I'm looking to collaborate on projects where I can develop my skills in C#, Python, Kotlin and SQL/noSQL.<br>
 📙I'm currently learning about linear regression and decision trees for our bachelor project. <br>
 💬Ask me about Python, Kotlin and C# (can't promise a direct answer, but I'm up for discussing).<br>
