@@ -1,8 +1,8 @@
 # 💫 About Me:
 **Christian Aasen**<br>
 💻I have just finished my bachelor thesis that utilized machine learning, Kotlin and noSQL databases and I'm currently looking for my first job in IT.<br>
-🔎I'm looking to collaborate on projects where I can develop my skills in C#, Python, Kotlin and SQL/noSQL.<br>
-📙I'm currently learning about linear regression and decision trees for our bachelor project. <br>
+🔎I'm looking for my first job in IT, preferably a place that uses these technologies: C#, Python, Kotlin and SQL/noSQL.<br>
+📙I'm currently learning more about Kotlin and jetpack compose as I'm working on a personal project "RollHelper" that you can see here on Github. <br>
 💬Ask me about Python, Kotlin and C# (can't promise a direct answer, but I'm up for discussing).<br>
 🤣Fun fact: "Do you know what they call a group of Lemurs? A conspiracy"<br>
 **CONTACT**: *chriaasen@gmail.com*
