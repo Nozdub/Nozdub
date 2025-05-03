@@ -1,6 +1,6 @@
 # 💫 About Me:
 **Christian Aasen**<br>
-💻I have just finished my bachelor thesis and I'm currently looking for my first job in IT (where you at?).<br>
+💻I've wrapped up my bachelor thesis and I'm currently looking for my first job in IT (where you at?).<br>
 🔎I'm looking for projects or jobs that allow me to improve in C#, Python, Kotlin and SQL/noSQL. or learn something new ofc.<br>
 📙I'm currently learning more about Kotlin and jetpack compose as I'm working on a personal project "RollHelper" that you can see here on Github. <br>
 💬Ask me about Python, Kotlin and C# (can't promise a direct answer, but I'm up for discussing).<br>
