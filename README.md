@@ -1,8 +1,7 @@
 ## 💫 About Me:
 **Christian Aasen**<br>
-- 💻I've wrapped up my bachelor thesis and continued on self learning AWS.<br>
+- 💻I've wrapped up my bachelor thesis, and now I'm currently working on a few of my own projects as well as publishing my own app to Google Play.<br>
 - 🔎I'm looking for projects/jobs that allow me to improve as software developer.<br>
-- 📙I'm currently in the proccess of publishing my own app; Rollhelper on Google Play. <br>
 - 📫You can reach me at *chriaasen@gmail.com*
 
 
