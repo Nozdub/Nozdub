@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 **Christian Aasen**<br>
 💻I've wrapped up my bachelor thesis and I'm currently looking for my first job in IT (where you at?).<br>
 🔎I'm looking for projects or jobs that allow me to improve in C#, Python, Kotlin and SQL/noSQL. or learn something new ofc.<br>
