@@ -2,8 +2,9 @@
 
 ###
 # 💫 About Me:
-💻 I'm currently working on a few own projects (FinanceTracker & EnviroImpactTracker) being the primaries as well as publishing Rollhelper, my android app to Google Play<br>
-📚 I'm currently learning about machine learning<br>
+💻 I'm currently working on a few own projects, namely FinanceTracker & EnviroImpactTracker, both can be seen in my repos<br>
+🏆 My biggest win so far is that I'm in the final phase of publishing my android app, Rollhelper to Google Play<br>
+📚 I'm currently immersing myself in a few topics; JS, React and machine learning<br>
 🎯 Goals: Get my first job as a developer
 
 
