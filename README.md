@@ -2,7 +2,9 @@
 
 ###
 # 💫 About Me:
-💻 Currently working on own projects (check out my repos)<br>📚 I'm currently learning about machine learning<br>🎯 Goals: Get my first job as a developer
+💻 I'm currently working on a few own projects (FinanceTracker & EnviroImpactTracker) being the primaries as well as publishing Rollhelper, my android app to Google Play<br>
+📚 I'm currently learning about machine learning<br>
+🎯 Goals: Get my first job as a developer
 
 
 ## 🌐 Socials:
