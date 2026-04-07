@@ -2,10 +2,10 @@
 
 ###
 # 💫 About Me:
-💻 I'm currently working on a few own projects, namely FinanceTracker & EnviroImpactTracker, both can be seen in my repos<br>
-🏆 My biggest project win so far is that I'm in the final phase of publishing my android app, Rollhelper to Google Play<br>
-📚 I'm currently immersing myself in a few topics; JS, React and machine learning<br>
-🎯 Goals: Get my first job as a developer
+💻 I'm currently working as a test developer for a Norwegian tech company
+🏆 My biggest project win so far is that I've successfully released and continued development on my android app, Rollhelper<br>
+📚 I'm currently getting into playwright, appwright, kotlin and swift<br>
+🎯 Goals: Improve and continue to build out my mobile app + start a new mobile app project.
 
 
 ## 🌐 Socials:
